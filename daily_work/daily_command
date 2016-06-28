@@ -1,0 +1,5 @@
+git
+
+git log --abbrev-commit --decorate --pretty=oneline --graph --all
+
+vim
